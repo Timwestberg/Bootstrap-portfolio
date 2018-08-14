@@ -1,0 +1,27 @@
+/* Applies back ground to entire page */
+body {
+    background-image: url(../images/dark_wood_@2X.png);
+}
+
+.first {
+    margin: 40px 0px 0px 0px;
+
+}
+
+.second {
+    margin: 40px 0px 0px 0px
+
+}
+
+.third {
+    margin: 40px 0px 95px 0px
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card {
+    border-color: greenyellow;
+}
