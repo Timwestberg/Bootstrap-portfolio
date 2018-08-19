@@ -1,6 +1,13 @@
 /* Applies back ground to entire page */
 body {
     background-image: url(../images/dark_wood_@2X.png);
+    font-family: 'Righteous', cursive;
+}
+nav {
+    font-family: 'Pacifico', cursive;
+}
+#nametag {
+    font-family: 'Righteous', cursive;
 }
 
 /* customization to content  */
